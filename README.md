@@ -1,7 +1,7 @@
 ### Getting-and-Cleaning-Data-Course-Project
 
 ### Description
-a code book that describes the variables, the data, and any transformations or work performed to clean up the data used in the course project for the Johns Hopkins Getting and Cleaning Data course.
+a project performed to clean up the data used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 ### Source Data
 [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
